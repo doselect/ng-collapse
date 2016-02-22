@@ -1,0 +1,22 @@
+{
+  "name": "ng-collapse",
+  "version": "0.1.0",
+  "description": "Angular directive for Collapse/Expand",
+  "main": "ng-collapse.js",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-angular-templatecache": "^1.8.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-uglifyjs": "^0.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doselect/ng-collapse.git"
+  },
+  "author": "Jaipradeesh <jai@doselect.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doselect/ng-collapse/issues"
+  },
+  "homepage": "https://github.com/doselect/ng-collapse#readme"
+}

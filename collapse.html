@@ -1,0 +1,6 @@
+<span>
+  <div ng-style='contracted' ng-transclude></div>
+  <div ng-show='expanded' ng-transclude></div>
+  <a ng-hide='expanded || !expandable' ng-click='expanded = !expanded && collapse()'>Show More</a>
+  <a ng-show='expanded && expandable' ng-click='expanded = !expanded && collapse()'>Show Less</a>
+</span>
